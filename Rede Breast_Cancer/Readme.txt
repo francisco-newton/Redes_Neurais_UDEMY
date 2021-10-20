@@ -1,0 +1,1 @@
+Primeira rede neural criada durante o curso, tem por intuito realizar previsões baseadas em dados tirados de casos de cancer de mama em pacientes
