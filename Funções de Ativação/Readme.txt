@@ -1,0 +1,1 @@
+Demonstração de algumas funções de ativação utilizadas em redes neurais.
